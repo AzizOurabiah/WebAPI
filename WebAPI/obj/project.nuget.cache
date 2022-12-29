@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KvJ3p9yLV8M48Oo1RyB0gfo3J4qxXK8gb2gBBKzybImGGhn5pX+WKXas8D+k0Wt6L5x8wtSlW5bWjz5gqm6SoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aziz\\Desktop\\Application_From_Scratch\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aziz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
